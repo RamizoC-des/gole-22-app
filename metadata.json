@@ -1,0 +1,8 @@
+{
+  "name": "Gole Kaab",
+  "description": "A highly inclusive and accessible mobile-first Progressive Web App (PWA) dedicated to empowering marginalized communities in Somalia and Kenya. The app is installable, works offline, and features persistent data storage for data sharing, community interaction, and AI-powered insights.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
